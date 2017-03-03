@@ -18,4 +18,6 @@ export class DropdownDirective {
     this.opened = false;
   }
 
+  
+
 }
